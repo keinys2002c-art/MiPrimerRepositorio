@@ -1,1 +1,1 @@
-
+console.log("la pagina esta funcionando correctamente.")
